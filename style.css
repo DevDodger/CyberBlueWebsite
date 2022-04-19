@@ -87,7 +87,7 @@ button:hover img{
     display: block;
 }
 button:hover{
-    width: 160px;
+    width: 161px;
     display: flex;
     align-items: center;
     justify-content: space-between;
