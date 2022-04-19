@@ -45,7 +45,7 @@ nav ul li a:hover{
 .row{
     display: flex;
     justify-content: space-between;
-    align-items: left;
+    align-items: center;
     margin: 100px 0;
 }
 
