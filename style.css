@@ -79,13 +79,16 @@ button{
     cursor: pointer;
     transition: width 0.5s;
 }
+
 button img{
     width: 30px;
     display: none;
 }
+
 button:hover img{
     display: block;
 }
+
 button:hover{
     width: 160px;
     display: flex;
